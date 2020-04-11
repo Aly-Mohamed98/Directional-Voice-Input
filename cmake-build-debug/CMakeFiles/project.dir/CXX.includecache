@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aly/CLionProjects/project/main.cpp
+SFML/Audio.hpp
+-
+iostream
+-
+SFML/Graphics.hpp
+-
+SFML/System.hpp
+-
+random
+-
+algorithm
+-
+
